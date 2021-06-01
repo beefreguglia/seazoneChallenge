@@ -22,6 +22,8 @@ O desafio foi desenvolvido utilizando as seguintes tecnologias:
 
 - [ReactJS]()
 - [Typescript]()
+- [HTML]()
+- [CSS]()
 - [Styled Components]()
 - [MirageJS]()
 - [NodeJS]()
