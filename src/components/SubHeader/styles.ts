@@ -33,6 +33,7 @@ export const Container = styled.div`
         width: 100%;
         height: 2rem;
         position: absolute;
+        padding: 0 0.4rem;
 
       }
 
