@@ -1,10 +1,8 @@
 <h1 align= 'center'>
 Seazone Challenge
----
 <img src = https://i.imgur.com/uXf6kmQ.png>
 
 </h1>
----
 
 ## Indice
 
