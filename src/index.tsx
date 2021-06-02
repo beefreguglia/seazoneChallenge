@@ -125,7 +125,7 @@ createServer({
             state: 'SC'
 
           },
-          amenities: 'aaa'
+          amenities: ["Tv","Wifi","Estacionamento","Elevador"]
 
         },
         {
